@@ -1,4 +1,4 @@
-#this is a tic tac toe program for python beginners
+#this is a python program for tic tac toe for python beginners
 #this game could be only played with your companion
 def print_board(board):
     for row in board:
