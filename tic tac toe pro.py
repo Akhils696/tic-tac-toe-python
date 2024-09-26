@@ -1,3 +1,5 @@
+#this is a python code for tic tac toe for python intermediates
+#this game allows the user to either play with a ai or a companion
 import random
 
 class TicTacToe:
